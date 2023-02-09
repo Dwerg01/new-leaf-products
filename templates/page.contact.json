@@ -1,0 +1,101 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "302e16fe-711b-454c-bdf6-5ddc17bfb056": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17685193883968__302e16fe-711b-454c-bdf6-5ddc17bfb056-1675845002eb053556-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Got Any Questions?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17685193883968__302e16fe-711b-454c-bdf6-5ddc17bfb056-1675845002eb053556-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Send us a message<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17685193883968__302e16fe-711b-454c-bdf6-5ddc17bfb056-1675845002eb053556-0",
+        "template--17685193883968__302e16fe-711b-454c-bdf6-5ddc17bfb056-1675845002eb053556-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "951ec8c2-c47f-442a-b1b9-dc8a749924fd": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-1": {
+          "type": "column",
+          "settings": {
+            "title": "Email Us",
+            "text": "<p>newleafsouthafrica@gmail.com<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-2": {
+          "type": "column",
+          "settings": {
+            "title": "Your message matters to us",
+            "text": "<p>We'll make every effort to respond as soon as we are back in the office.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-1",
+        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "302e16fe-711b-454c-bdf6-5ddc17bfb056",
+    "form",
+    "951ec8c2-c47f-442a-b1b9-dc8a749924fd"
+  ]
+}

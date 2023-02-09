@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "3325f459-7b65-4d6c-ac28-97384237a398": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17908249166144__3325f459-7b65-4d6c-ac28-97384237a398-167567157035e41972-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We only source and formulate our products with grade A ingredients, we do not use any genetically modified ingredients. <\/p><p><br\/>All our products are then third party lab tested: Each ingredient is quality tested before our manufacturing process begins, once completed every batch undergoes further rigorous quality testing for heavy metals and unwanted compounds by UK & Europe's largest testing facilities (Eurofins) The lab is UKAS accredited according to ISO\/IEC 17025:2017<\/p><p><strong> Our Formulas<\/strong><\/p><p>We manufacture our nutritional supplements using formulas that work to ensure you get only the purest ingredients and natural nutrients. Our unique approach to crafting only high-quality products guarantees our customers receive the required nutritional potency of active ingredients.<\/p><p>Our formulas are unique and made to GMP standards in the UK. Since our core focus is optimum nutrition, we only manufacture formulas that are created to work for our bodies. Whether you’re looking to build your immunity, lower your stress levels, or boost your energy, you can trust our health and wellness products to help you achieve your fitness goals.<\/p><p>In line with our promise of quality, we source effective and all-natural ingredients to secure the purity and potency of our health products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17908249166144__3325f459-7b65-4d6c-ac28-97384237a398-167567157035e41972-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3325f459-7b65-4d6c-ac28-97384237a398"
+  ]
+}

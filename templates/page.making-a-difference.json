@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "3325f459-7b65-4d6c-ac28-97384237a398": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17908249166144__3325f459-7b65-4d6c-ac28-97384237a398-167567157035e41972-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a leading UK based nutritional supplement company, we make finding the right vitamins as easy as possible. We have an extensive range of supplements and vitamins, and with so many products to choose from, you’re sure to find your perfect product in no time. We’re committed to making you feel better and be the best version of yourself by providing you with vitamins and supplements that deliver optimal nutrition. No matter what your health goals may be, you can rely on our products to positively impact your life both mentally and physically.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17908249166144__3325f459-7b65-4d6c-ac28-97384237a398-167567157035e41972-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3325f459-7b65-4d6c-ac28-97384237a398"
+  ]
+}

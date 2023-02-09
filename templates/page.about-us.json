@@ -1,0 +1,169 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "bb7ca788-8bf6-4777-bce5-6aa5660952e4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17908466254144__bb7ca788-8bf6-4777-bce5-6aa5660952e4-1675669335375b45ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "template--17908466254144__bb7ca788-8bf6-4777-bce5-6aa5660952e4-1675669335375b45ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "Nutritional Supplements for your wellbeing today and everyday",
+            "text_style": "body"
+          }
+        },
+        "template--17908466254144__bb7ca788-8bf6-4777-bce5-6aa5660952e4-1675669335375b45ba-3": {
+          "type": "image_picker2",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17908466254144__bb7ca788-8bf6-4777-bce5-6aa5660952e4-1675669335375b45ba-0",
+        "template--17908466254144__bb7ca788-8bf6-4777-bce5-6aa5660952e4-1675669335375b45ba-1",
+        "template--17908466254144__bb7ca788-8bf6-4777-bce5-6aa5660952e4-1675669335375b45ba-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about-banner_3740x_WWA2.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "3bc3e86a-ce5f-4406-adf8-dd8fcb0d515a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17908466254144__3bc3e86a-ce5f-4406-adf8-dd8fcb0d515a-1675669665f264d2ce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About New Leaf Products",
+            "heading_size": "h1"
+          }
+        },
+        "template--17908466254144__3bc3e86a-ce5f-4406-adf8-dd8fcb0d515a-1675669665f264d2ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are a leading UK-based health and wellness retailer and supply a wide range of high-quality nutritional supplements. From vitamins and minerals to beauty and joint supplements as well as immunity boosting products, we strive to provide you with high quality products that are made in the UK to the highest standards and that are value for money.<\/p><p>We have many years of experience in the health and nutrition industry and take an ethical and responsible approach to nutritional supplements. For instance, we only source grade A non-GMO ingredients and provide the most effective forms and dosages to guarantee customer satisfaction.<\/p><p>All our products are independently lab tested: Each ingredient is quality tested before our manufacturing process begins. Once completed every batch undergoes further rigorous quality testing for heavy metals and unwanted compounds by UK & Europe's largest testing facilities (Eurofins) The lab is UKAS accredited according to ISO\/IEC 17025:2017<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17908466254144__3bc3e86a-ce5f-4406-adf8-dd8fcb0d515a-1675669665f264d2ce-0",
+        "template--17908466254144__3bc3e86a-ce5f-4406-adf8-dd8fcb0d515a-1675669665f264d2ce-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about-medicine-rack2_580x_WWA1_8b5c7db6-d5d1-462a-8333-77340dc52dcc.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b57c7ee0-122f-4188-9b5b-103354116493": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17908466254144__b57c7ee0-122f-4188-9b5b-103354116493-1675669665f264d2ce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Choose Us",
+            "heading_size": "h1"
+          }
+        },
+        "template--17908466254144__b57c7ee0-122f-4188-9b5b-103354116493-1675669665f264d2ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our promise is simple – to create high-quality nutritional supplements that work with the complexities of your body. We believe each body is different and unique, and that’s why we develop innovative formulas that are curated to work for you.<\/p><p>We are serious about nutrition and know that nutrient deficiencies are common and affect the lives of people every day. So, we insist on using essential ingredients such as vitamin D, iron, magnesium, and calcium to give you the nutrition you need to live a healthy and normal life.<\/p><p>Our dedication and commitment to bringing the highest quality supplements and vitamins ensures we can provide each customer with the best shopping experience possible. We genuinely care about you and are ready to listen and advise you accordingly. If you need any help, don’t hesitate to reach out to us.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17908466254144__b57c7ee0-122f-4188-9b5b-103354116493-1675669665f264d2ce-0",
+        "template--17908466254144__b57c7ee0-122f-4188-9b5b-103354116493-1675669665f264d2ce-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Why_Choose_Us_WWA3.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "right",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3d396d01-95bb-40e9-814b-b7f055479168": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17908466254144__3d396d01-95bb-40e9-814b-b7f055479168-16756707382bbd1944-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Formulas",
+            "heading_size": "h1"
+          }
+        },
+        "template--17908466254144__3d396d01-95bb-40e9-814b-b7f055479168-16756707382bbd1944-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We manufacture our nutritional supplements using formulas that work to ensure you get only the purest ingredients and natural nutrients. Our unique approach to crafting only high-quality products guarantees our customers receive the required nutritional potency of active ingredients.<\/p><p>Our formulas are unique and made to GMP standards in the UK. Since our core focus is optimum nutrition, we only manufacture formulas that are created to work for our bodies. Whether you’re looking to build your immunity, lower your stress levels, or boost your energy, you can trust our health and wellness products to help you achieve your fitness goals.<\/p><p>In line with our promise of quality, we source effective and all-natural ingredients to secure the purity and potency of our health products.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17908466254144__3d396d01-95bb-40e9-814b-b7f055479168-16756707382bbd1944-0",
+        "template--17908466254144__3d396d01-95bb-40e9-814b-b7f055479168-16756707382bbd1944-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Our_Formulas_WWA4.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bb7ca788-8bf6-4777-bce5-6aa5660952e4",
+    "3bc3e86a-ce5f-4406-adf8-dd8fcb0d515a",
+    "b57c7ee0-122f-4188-9b5b-103354116493",
+    "3d396d01-95bb-40e9-814b-b7f055479168"
+  ]
+}

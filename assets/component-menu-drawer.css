@@ -126,7 +126,9 @@ details[open].menu-opening > .menu-drawer__submenu {
 .menu-drawer__menu-item {
   padding: 1.1rem 3.2rem;
   text-decoration: none;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
+  color: rgb(var(--color-base-accent-1));
+  font-weight: 500;
 }
 
 .no-js .menu-drawer__menu-item {
@@ -154,7 +156,6 @@ details[open].menu-opening > .menu-drawer__submenu {
 .menu-drawer__close-button:focus,
 .menu-drawer__menu-item:hover,
 .menu-drawer__close-button:hover {
-  color: rgb(var(--color-foreground));
   background-color: rgba(var(--color-foreground), 0.04);
 }
 
@@ -197,12 +198,14 @@ details[open].menu-opening > .menu-drawer__submenu {
   text-decoration: none;
   display: flex;
   align-items: center;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   width: 100%;
   background-color: transparent;
   font-family: var(--font-body-family);
   font-style: var(--font-body-style);
   text-align: left;
+  color: rgb(var(--color-base-accent-1));
+
 }
 
 .no-js .menu-drawer__close-button {

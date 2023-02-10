@@ -91,6 +91,7 @@
         },
         "709cf2f0-5d6c-4d7c-9065-fc940c568120": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"promo-brand\"><img class=\"lazy\" \nsrcset=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0713\/3216\/8000\/files\/newleafproducts-mbg-_1_-_1.png?v=1675856010\"  alt=\"\" \/>"
           }

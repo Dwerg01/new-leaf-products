@@ -9,7 +9,10 @@
             <button class="tabs__button" data-for-tab="2">Information</button>
             <button class="tabs__button" data-for-tab="3" style="margin-right:auto !important;">FAQs</button>
         </div>
-    
+        <div class="subtitle">
+          <h3 style="text-align: center;">Why New Leaf Product's {{ product.metafields.descriptors.subtitle  }}?</h3>
+          <p> {{ product.metafields.custom.main_benefit }} </p>
+        </div>
         <div class="tabs__content tabs__content--active" data-tab="1">
           <div class="half__image">  
             <img  src="{{ product.metafields.custom.feature_image | image_url | aspect-ratio: 1.28 }}" alt ="{{ product.metafields.descriptors.subtitle }} with listed main benefits"/>

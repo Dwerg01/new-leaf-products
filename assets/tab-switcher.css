@@ -41,6 +41,10 @@ h3 {
   font-size: 2rem;
 }
 
+.subtitle {
+    margin-left: clamp(1rem, 3rem, 8rem)
+}
+
 .tabs__button--active {
     border-bottom: 4px solid rgba(var(--color-base-accent-1));
 }

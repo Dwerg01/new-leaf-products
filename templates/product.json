@@ -128,6 +128,50 @@
       "settings": {
       }
     },
+    "2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17685194015040__2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b-1676453972c0a7efb0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--17685194015040__2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b-1676453972c0a7efb0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Manufactured according to the highest GMP standards whilst formulated with the cleanest and purest ingredients<\/p><p>A high level of care and attention is given to the production of New Leaf supplements throughout all stages - from raw material to delivery.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17685194015040__2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b-1676453972c0a7efb0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17685194015040__2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b-1676453972c0a7efb0-0",
+        "template--17685194015040__2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b-1676453972c0a7efb0-1",
+        "template--17685194015040__2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b-1676453972c0a7efb0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ValueBottleSupply.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -149,6 +193,7 @@
   "order": [
     "main",
     "f5909cc5-b1b2-451c-a6a8-620e9703402a",
+    "2abbc8f2-bbe3-4e59-a3a0-1f38d88dde4b",
     "product-recommendations"
   ]
 }

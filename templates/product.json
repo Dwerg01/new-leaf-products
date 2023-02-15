@@ -123,6 +123,11 @@
         "padding_bottom": 12
       }
     },
+    "f5909cc5-b1b2-451c-a6a8-620e9703402a": {
+      "type": "tab-switcher",
+      "settings": {
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -143,6 +148,7 @@
   },
   "order": [
     "main",
+    "f5909cc5-b1b2-451c-a6a8-620e9703402a",
     "product-recommendations"
   ]
 }

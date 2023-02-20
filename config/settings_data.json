@@ -104,7 +104,7 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
-    "accent_icons": "text",
+    "accent_icons": "accent-1",
     "social_twitter_link": "",
     "social_facebook_link": "",
     "social_pinterest_link": "",
@@ -122,6 +122,14 @@
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/menu_logo.png",
+    "checkout_logo_position": "center",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_sidebar_background_image": "shopify:\/\/shop_images\/checkout_bg.jpg",
+    "checkout_body_font": "Open Sans",
+    "checkout_accent_color": "#276f64",
+    "checkout_button_color": "#276f64",
+    "checkout_error_color": "#e15e5d",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

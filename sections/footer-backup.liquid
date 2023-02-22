@@ -58,7 +58,7 @@
 
               {%- case block.type -%}
                 {%- when 'text' -%}
-                  <div class="footer-block__details-content rte" style="width:100px;">
+                  <div class="footer-block__details-content rte">
                     {{ block.settings.subtext }}
                   </div>
                 {%- when 'link_list' -%}
@@ -74,7 +74,7 @@
                     </ul>
                   {%- endif -%}
                 {%- when 'image' -%}
-                  <div class="footer-block__details-content footer-block-image {{ block.settings.alignment }} " style="padding:5px;">
+                  <div class="footer-block__details-content footer-block-image {{ block.settings.alignment }}">
                     {%- if block.settings.image != blank -%}
                       {%- assign image_size_2x = block.settings.image_width | times: 2 | at_most: 5760 -%}
                       <img
@@ -90,9 +90,6 @@
                       {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                     {%- endif -%}
                   </div>
-                {% if block.settings.additional_blurb %}
-                  <p class="footer-block__details-content rte" > {{ block.settings.additional_blurb }} </p>
-                {% endif %}
                 {%- endcase -%}
             </div>
           {%- endfor -%}
@@ -324,12 +321,11 @@
           <div class="footer__payment">
             <span class="visually-hidden">{{ 'sections.footer.payment' | t }}</span>
             <ul class="list list-payment" role="list">
-              {% assign enabled_payment_types = 'visa,master,payfast_instant_eft, mobicred,zapper' | remove: ' ' | split: ',' %}
-                {% for type in enabled_payment_types %}
-                  <li class="list-payment__item">
-                    {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
-                  </li>
-                {%- endfor -%}
+              {%- for type in shop.enabled_payment_types -%}
+                <li class="list-payment__item">
+                  {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
+                </li>
+              {%- endfor -%}
             </ul>
           </div>
         {%- endif -%}
@@ -448,7 +444,7 @@
           "type": "range",
           "id": "image_width",
           "min": 50,
-          "max": 200,
+          "max": 250,
           "step": 5,
           "unit": "px",
           "label": "Image width",
@@ -473,12 +469,6 @@
             }
           ],
           "default": "center"
-        },
-        {
-          "type": "richtext",
-          "id": "additional_blurb",
-          "label": "Additional blurb",
-          "info": "Add some text with optional links to important pages "
         }
       ]
     }

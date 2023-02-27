@@ -118,7 +118,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/favicon2.png",
-    "currency_code_enabled": true,
+    "currency_code_enabled": false,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
@@ -161,7 +161,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/New_Leaf_Logo_171x_7e36cf5c-3edf-4798-bd55-37c97fe362b5.webp",
               "image_width": 200,
-              "alignment": "",
+              "alignment": "center",
               "additional_blurb": "<p>Welcome to New Leaf Products! Nutritional supplements for your wellbeing today and every day.<\/p><p>From vitamins and gummies to hair growth supplements and health products, we strive to provide you with high quality products that are value for money.<\/p>"
             }
           },

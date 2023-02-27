@@ -75,6 +75,16 @@ h3 {
     margin-left: 20px;
 }
 
+@media screen and (max-width: 749px) {
+  .text-box {
+    margin: 10px;
+    min-width: 30ch;
+  }
+  
+  .main-tab-container {
+    margin-left: 5px;
+  }
+}
 
 
 @media (max-width: 1060px ) {

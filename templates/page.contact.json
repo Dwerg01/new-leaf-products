@@ -55,24 +55,14 @@
           "type": "column",
           "settings": {
             "title": "Email Us",
-            "text": "<p>newleafsouthafrica@gmail.com<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-2": {
-          "type": "column",
-          "settings": {
-            "title": "Your message matters to us",
-            "text": "<p>We'll make every effort to respond as soon as we are back in the office.<\/p>",
+            "text": "<p>hello@newleafproducts.co.za<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-1",
-        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-2"
+        "template--17685193883968__951ec8c2-c47f-442a-b1b9-dc8a749924fd-1675844680cd5299c1-1"
       ],
       "settings": {
         "title": "",

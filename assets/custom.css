@@ -75,9 +75,9 @@ ul.product-slider-menu {
     padding-top: 1.5rem;
 }
 ul.product-slider-menu a {
-    font-size: 24px;
+    font-size: clamp(1.5rem, 5vw, 2.5rem);
     font-weight: 700;
-    margin: 0 25px;
+    margin: 0 clamp(10px, 2%, 25px);
     color: #444;
     padding: 10px 0;
     text-decoration: none;

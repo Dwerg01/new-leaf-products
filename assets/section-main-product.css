@@ -380,6 +380,12 @@ a.product__text {
 }
 
 @media screen and (min-width: 750px) {
+  
+/* custom selector to hide product title ahead of images on desktop  */
+  .product__title-mobile {
+    display:none;
+  }
+  
   .product__info-container {
     max-width: 60rem;
   }
@@ -390,6 +396,12 @@ a.product__text {
 
   .product__info-container > *:first-child {
     margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .product__title {
+     display: none; 
   }
 }
 
@@ -490,6 +502,7 @@ a.product__text {
     width: calc(100% + 4rem);
   }
 
+  
   .product__media-wrapper slider-component:not(.thumbnail-slider--no-slide) {
     margin-left: -1.5rem;
     margin-right: -1.5rem;
